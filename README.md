@@ -6,7 +6,7 @@ Beim interaktiven Mülleimer handelt es sich um einen Aufsatz für einen handels
 
 ## Aufbau
 
-<img src=https://github.com/MakeYourSchool/Interaktiver_Muelleimer/blob/main/Abbildungen/Interaktiver-M%C3%BClleimer.png?raw=true width=600px>
+<img src=https://github.com/MakeYourSchool/Interaktiver_Muelleimer/blob/main/Abbildungen/Interaktiver-M%C3%BClleimer.jpg width=600px>
 
 Bildquelle: *Wissenschaft im Dialog*
 
